@@ -2,9 +2,6 @@
 # Display name
 title: Stephen Cook
 
-# Name pronunciation (optional)
-name_pronunciation: Stephen Cook
-
 # Full name (for SEO)
 first_name: Stephen Mark
 last_name: Cook
