@@ -121,5 +121,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am PhD researcher at the Information Security Group at Royal Holloway University of London. My research interests include Security & Privacy, Internet of Things (IoT), Medical & Assistive IoT technology, Mobile security, and Digital Forensics. 
+
+My Previous work involved working as a research assistant 
+working as part of the CyFer Project led by Dr Maryam Mehrnezhad <https://sites.google.com/view/maryammjd/cyfer-project> and funded by Petras. My role in the project involved conducting a security and privacy anaylsis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
+
+
+
 {style="text-align: justify;"}
