@@ -3,7 +3,7 @@
 title: Stephen Cook
 
 # Full name (for SEO)
-first_name: Stephen Mark
+first_name: Stephen
 last_name: Cook
 
 # Status emoji
