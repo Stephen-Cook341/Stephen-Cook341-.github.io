@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Stephen Cook
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Stephen Cook
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Stephen Mark
+last_name: Cook
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Royal Holloway University of London
+    url: https://www.royalholloway.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things (IoT)
+  - Medical IoT
+  - Security & Privacy
+  - Digital Forensics 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Cyber Security
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023 - 2027
+    - course: MSc in Cyber Security 
+      institution: Newcastle University 
+      year: 2022
+    - course: BSc (hons) Computer Science
+      institution: York St John's University 
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
