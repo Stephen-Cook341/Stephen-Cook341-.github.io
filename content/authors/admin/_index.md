@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-I am PhD researcher at the Information Security Group at Royal Holloway University of London. My research interests include Security & Privacy, Internet of Things (IoT), Medical & Assistive IoT technology, Mobile security, and Digital Forensics. My Previous work involved working as a research assistant working as part of the CyF[CyFer Project](https://sites.google.com/view/maryammjd/cyfer-project) led by Dr Maryam Mehrnezhad and funded by Petras. My role in the project involved conducting a security and privacy anaylsis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
+I am PhD researcher at the Information Security Group at Royal Holloway University of London. My research interests include Security & Privacy, Internet of Things (IoT), Medical & Assistive IoT technology, Mobile security, and Digital Forensics. My Previous work involved working as a research assistant working as part of th[CyFer Project](https://sites.google.com/view/maryammjd/cyfer-project) led by [Dr Maryam Mehrnezhad](https://sites.google.com/view/maryammjd/home) and funded by Petras. My role in the project involved conducting a security and privacy anaylsis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
 {style="text-align: justify;"}
 
 f
