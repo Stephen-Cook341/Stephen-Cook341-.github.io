@@ -125,7 +125,5 @@ I am PhD researcher at the Information Security Group at Royal Holloway Universi
 
 My Previous work involved working as a research assistant 
 working as part of the CyFer Project led by Dr Maryam Mehrnezhad <https://sites.google.com/view/maryammjd/cyfer-project> and funded by Petras. My role in the project involved conducting a security and privacy anaylsis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
-
-
-
 {style="text-align: justify;"}
+---
